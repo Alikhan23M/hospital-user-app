@@ -1,0 +1,25 @@
+{
+  "short_name": "Doctor Appointment App",
+  "name": "Appointment App for Patients",
+  "icons": [
+    {
+      "src": "https://cdn3d.iconscout.com/3d/premium/thumb/doctor-appointment-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--medical-hospital-calendar-pack-healthcare-illustrations-3145170@0.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://cdn3d.iconscout.com/3d/premium/thumb/doctor-appointment-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--medical-hospital-calendar-pack-healthcare-illustrations-3145170@0.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn3d.iconscout.com/3d/premium/thumb/doctor-appointment-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--medical-hospital-calendar-pack-healthcare-illustrations-3145170@0.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
