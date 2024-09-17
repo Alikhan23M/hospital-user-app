@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router';
-const host = 'https://hospital-backend-swyb.onrender.com/'
+const host = 'https://hospital-backend-swyb.onrender.com'
 export default function Appointment(props) {
     // Create state variables for storing appointment details
     const [patientName, setPatientName] = useState('');
