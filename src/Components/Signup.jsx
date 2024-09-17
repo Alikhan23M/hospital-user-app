@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import Loader from './Loader';
-const host = 'https://hospital-management-web-back.vercel.app'
+const host = 'https://hospital-backend-swyb.onrender.com'
 export default function Signup() {
   let navigate = useNavigate();
   const [credentials, setCredentials] = useState({ name: "", email: "", password: "" });
