@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router';
 import Loader from './Loader';
-const host = 'https://hospital-management-web-back.vercel.app'
+const host = 'https://hospital-backend-swyb.onrender.com'
 export default function Trackappointment() {
     const [doctorId, setDoctorId] = useState('');
     const [appointments, setAppointments] = useState([]);
