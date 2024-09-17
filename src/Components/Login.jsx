@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useNavigate, Link } from 'react-router-dom';
 import Loader from './Loader';
-const host = 'https://hospital-management-web-back.vercel.app'
+const host = 'https://hospital-backend-swyb.onrender.com'
 // This function recives the alert function in the props
 export default function Login(props) {
 
