@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Loader from './Loader';
-const host = 'https://hospital-management-web-back.vercel.app'
+const host = 'https://hospital-backend-swyb.onrender.com'
 export default function Doctor() {
   const [doctors, setDoctors] = useState([]);
   const [loading, setLoading] = useState(false);
